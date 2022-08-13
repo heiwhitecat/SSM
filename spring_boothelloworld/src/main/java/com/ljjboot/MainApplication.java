@@ -28,7 +28,6 @@ public class MainApplication {
         System.out.println("user = " + user);
         System.out.println("user = " + user);
         System.out.println("hot-userfix = " + user);
-        System.out.println("hot-fixuser = " + user);
-
+        //修改
     }
 }
