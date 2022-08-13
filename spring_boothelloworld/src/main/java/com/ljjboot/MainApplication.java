@@ -27,6 +27,6 @@ public class MainApplication {
         boolean user = run.containsBean("com.ljjboot.pojo.User");
         System.out.println("user = " + user);
         System.out.println("user = " + user);
-        System.out.println("hot-fix = " + user);
+        System.out.println("hot-userfix = " + user);
     }
 }
